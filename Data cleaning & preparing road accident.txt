@@ -1,0 +1,39 @@
+Here's a step-by-step guide on data cleaning and preparing.
+
+Step 1: Save the Original File
+Save the original file at a different location for further reference.
+
+Step 2: Format Cells Size
+Select all data and format cells size.
+
+Step 3: Remove Duplicates
+Remove duplicates from the data.
+
+Step 4: Apply Filter
+Apply a filter to all columns.
+
+Step 5: Check for Blank and Incorrect Values
+Check each column one by one for any blank and incorrect/ambiguous values.
+
+Step 6: Spelling Check
+Spelling check all the data column-wise and remove typo errors.
+
+Step 7: Update Junction_Control Column
+In the Junction_Control column (Column D), change "Auto traffic sigl" to "Auto traffic signal".
+
+Step 8: Update Accident_Severity Column
+In the Accident_Severity column (Column F), change "Fetal" to "Fatal".
+
+Step 9 to Step 12: Replace Specific Values
+Replace the following values:
+- "Crewe and ntwich" with "Crewe and Nantwich"
+- "Stevege" with "Stevenage"
+- "Blaeu Gwent" with "Blaenau Gwent"
+- "Clackmannshire" with "Clackmannanshire"
+
+Step 13: Add "Month" and "Year" Columns
+Add two columns, "Month" and "Year", next to Column B. Enter the following formulas:
+- For the "Month" column, use the formula: `=TEXT(B2,"mmm")`
+- For the "Year" column, use the formula: `=TEXT(B2,"yyyy")`
+
+These steps should help you clean and process your data according to the provided instructions. Remember to adjust cell references in the formulas based on your actual data range.

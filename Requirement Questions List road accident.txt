@@ -1,0 +1,24 @@
+Dashboard Development Requirements:
+
+Creation of a comprehensive Road Accident Dashboard for the years 2021 and 2022 to gain valuable insights into the following key performance indicators (KPIs):
+
+Primary KPIs: 
+	1. Ascertain the total number of casualties occurring post-accidents.
+	2. Examine the total number of casualties, along with the percentage relative to accident severity. Additionally, highlight the maximum casualties categorized by the type of vehicle involved.
+
+Secondary KPIs:
+	3. Explore the total casualties concerning the specific types of vehicles involved.
+
+4. Monthly Trend Analysis:
+   - Develop a visual comparison of casualties on a monthly basis for the current and previous years.
+
+5. Maximum Casualties by Road Type:
+   - Identify and showcase the instances of maximum casualties based on different road types.
+
+6. Distribution Analysis by Road Surface:
+   - Analyze and visualize the distribution of total casualties based on various road surface conditions.
+
+7. Relationship Analysis between Casualties and Location/Time of Day:
+   - Investigate the correlation between casualties and specific geographic areas or locations, as well as their occurrence during different times of the day and night.
+
+These requirements collectively aim to provide a comprehensive and insightful representation of road accident data for the years 2021 and 2022.
